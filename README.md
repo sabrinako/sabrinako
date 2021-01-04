@@ -8,5 +8,5 @@
 #### *More About Me*  
 💖 Pronouns: she/her + they/them  
 🖥 Currently Working at: [HealthVerity](https://healthverity.com/)  
-📖 Currently Reading: Beastiary by K Ming Chang, The White Book by Han Kang
+📖 Currently Reading: Beastiary by K Ming Chang, The White Book by Han Kang  
 🌱 Currently Learning More About: Docker, React, Web Scraping
