@@ -9,4 +9,4 @@
 💖 Pronouns: she/her + they/them  
 🖥 Currently Working at: [HealthVerity](https://healthverity.com/)  
 📖 Currently Reading: Beastiary by K Ming Chang, Educated by Tara Westover  
-🌱 Currently Learning More About: Docker, React, Web Scraping
+🌱 Currently Learning More About: React, Web Scraping, Accessible Web Design
