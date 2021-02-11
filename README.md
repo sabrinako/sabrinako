@@ -8,5 +8,5 @@
 #### *More About Me*  
 💖 Pronouns: she/her + they/them  
 🖥 Currently Working at: [HealthVerity](https://healthverity.com/)  
-📖 Currently Reading: Beastiary by K Ming Chang, Educated by Tara Westover  
+📖 Currently Reading: Beastiary by K Ming Chang  
 🌱 Currently Learning More About: React, Web Scraping, Accessible Web Design
