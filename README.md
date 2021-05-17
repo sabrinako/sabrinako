@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-> I'm Sabrina Ko, a front end developer (web + mobile).  
+> I'm Sabrina Ko, a front end developer (web + mobile apps).  
 > My North Star guiding my work, personal and professional, is to facilitate the healing of others.  
 > Graduated from Smith College in 2018 (Creative Writing + CS). Now living in Philadelphia with my cat, Milo.  
 > In my spare time, I enjoy reading, crafting, finding the best pickles, and learning anything and everything.
