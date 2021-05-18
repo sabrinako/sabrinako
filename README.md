@@ -8,5 +8,5 @@
 #### *More About Me*  
 💖 Pronouns: she/her + they/them  
 🖥 Currently Working at: [Hashicorp](https://www.hashicorp.com/)  
-📖 Currently Reading: The Dream of a Common Language by Adrienne Rich
+📖 Currently Reading: The Dream of a Common Language by Adrienne Rich  
 🌱 Currently Learning More About: Ember, Accessible Web Design
