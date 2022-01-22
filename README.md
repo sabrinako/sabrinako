@@ -8,5 +8,5 @@
 #### *More About Me*  
 💖 Pronouns: she/her + they/them  
 🖥 Currently Working at: [HashiCorp](https://www.hashicorp.com/)  
-📖 Currently Reading: Entangled Life by Merlin Sherdrake
+📖 Currently Reading: Entangled Life by Merlin Sherdrake  
 🌱 Currently Learning More About: Ember, Accessible Web Design
