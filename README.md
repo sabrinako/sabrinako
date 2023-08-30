@@ -1,11 +1,11 @@
 ## Hello! 👋
 
-> I'm Sabrina Ko, a front end developer (web + mobile apps).  
+> I'm Sabrina Ko, a frontend developer with an interest in fullstack.
 > Graduated from Smith College (Creative Writing + CS). Now living in Philadelphia with my partner and our cats Milo, Sophie, and Maxey.  
 > In my spare time, I enjoy reading, crafting, finding the best pickles, and learning anything and everything.
 
 #### *More About Me*  
 💖 Pronouns: she/her + they/them  
-🖥 Currently Working at: [HashiCorp](https://www.hashicorp.com/)  
-📖 Currently Reading: Circe by Madeline Miller  
-🌱 Currently Learning More About: Ember, Accessible Web Design
+🖥 Last Worked at: [HashiCorp](https://www.hashicorp.com/)  
+📖 Currently Reading: Bunny by Mona Awad  
+🌱 Currently Learning More About: Accessible Web Design, Chess, [Barnacles](https://youtu.be/plYuvU2VZkE?si=l5WkS-9BdeyWvb0x)
