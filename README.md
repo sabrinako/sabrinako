@@ -7,6 +7,6 @@
 
 #### *More About Me*  
 💖 Pronouns: she/her + they/them  
-🖥 Last Worked at: [HashiCorp](https://www.hashicorp.com/)  
+🖥 Currently at: [Alma](https://www.helloalma.com/)  
 📖 Currently Reading: Bunny by Mona Awad  
 🌱 Currently Learning More About: Accessible Web Design, Chess, [Barnacles](https://youtu.be/plYuvU2VZkE?si=l5WkS-9BdeyWvb0x)
